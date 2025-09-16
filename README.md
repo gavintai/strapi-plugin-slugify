@@ -1,5 +1,12 @@
 # strapi-plugin-slugify
 
+> [!CAUTION]  
+> **This plugin has been deprecated.**
+> 
+> This plugin is unmaintained an will not be migrated to Strapi v5.
+> 
+> If you're looking for an alternative going forward, you could check out [Webtools plugin](https://github.com/pluginpal/strapi-webtools).
+
 A plugin for [Strapi](https://github.com/strapi/strapi) that provides the ability to auto slugify a field for any content type. It also provides a findOne by slug endpoint as a utility.
 
 [![Downloads](https://img.shields.io/npm/dm/strapi-plugin-slugify?style=for-the-badge)](https://img.shields.io/npm/dm/strapi-plugin-slugify?style=for-the-badge)
